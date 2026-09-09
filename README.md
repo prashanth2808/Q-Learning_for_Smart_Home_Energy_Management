@@ -1,6 +1,6 @@
 # Q-Learning for Smart Home Energy Management (HEMS)
 
-**RL Assignment 1 
+**RL Assignment 1** 
 **Student:** Prashanth S | **SRN:** R24MSA09 | **Program:** M.Sc in AI | **Batch:** FT 3
 
 ---
@@ -33,9 +33,3 @@ HEMS_code_implementation.ipynb        # Main notebook with all code + results
 
 ---
 
-## How to Run
-
-```bash
-pip install numpy matplotlib seaborn tqdm
-jupyter notebook HEMS_code_implementation.ipynb
-```
