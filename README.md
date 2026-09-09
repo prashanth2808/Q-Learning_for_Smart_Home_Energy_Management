@@ -1,6 +1,6 @@
 # Q-Learning for Smart Home Energy Management (HEMS)
 
-**RL Assignment 1 | Dr. JBS (Dr. Simha) | REVA University**
+**RL Assignment 1 
 **Student:** Prashanth S | **SRN:** R24MSA09 | **Program:** M.Sc in AI | **Batch:** FT 3
 
 ---
@@ -28,15 +28,7 @@
 
 ```
 HEMS_code_implementation.ipynb        # Main notebook with all code + results
-R24MSA09_Prashanth_RL_assignment.docx # Research paper (Word)
-R24MSA09_Prashanth_RL_assignment.pdf  # Research paper (PDF)
-RL_assignment_ppt.pptx                # Presentation slides
-results/
-    01_reproduction.png               # Q-Learning reward curve
-    02_ql_vs_sarsa.png                # Algorithm comparison
-    03_hyperparameter_sweep.png       # Hyperparameter heatmap
-    04_pricing_schemes.png            # Three pricing schemes
-    05_convergence.png                # Convergence analysis
+
 ```
 
 ---
