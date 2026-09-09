@@ -1,7 +1,7 @@
 # Q-Learning for Smart Home Energy Management (HEMS)
 
 **RL Assignment 1** |
-**Student:** Prashanth S | **SRN:** R24MSA09 | **Program:** M.Sc in AI | **Batch:** FT 3
+**Student:** Prashanth S 
 
 ---
 
